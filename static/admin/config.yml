@@ -5,6 +5,10 @@ backend:
 media_folder: static/img
 public_folder: /img
 
+site_url: https://epic-cray-a87bb7.netlify.com
+logo_url: https://epic-cray-a87bb7.netlify.com/static/github-icon.svg
+show_preview_links: false
+
 collections:
   - name: "blog"
     label: "Blog"
