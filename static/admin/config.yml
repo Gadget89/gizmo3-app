@@ -6,8 +6,9 @@ media_folder: static/img
 public_folder: /img
 
 site_url: https://epic-cray-a87bb7.netlify.com
-logo_url: https://epic-cray-a87bb7.netlify.com/static/github-icon.svg
+logo_url: https://epic-cray-a87bb7.netlify.com/img/apple-touch-icon.png
 show_preview_links: false
+publish_mode: editorial_workflow
 
 collections:
   - name: "blog"
